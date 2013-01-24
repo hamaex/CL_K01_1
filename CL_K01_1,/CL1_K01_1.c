@@ -4,6 +4,6 @@
 /*課題名：課題01_1*/
 void main(void){
 	int sum;
-	sum=1+3;
-	printf("15に37を足した値は%dです。",sum);
+	sum=100+100;
+	printf("100に100を足した値は%dです。",sum);
 }
