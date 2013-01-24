@@ -4,6 +4,6 @@
 /*‰Û‘è–¼F‰Û‘è01_1*/
 void main(void){
 	int sum;
-	sum=15+37;
+	sum=1+3;
 	printf("15‚É37‚ğ‘«‚µ‚½’l‚Í%d‚Å‚·B",sum);
 }
